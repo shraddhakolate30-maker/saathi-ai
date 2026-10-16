@@ -1,0 +1,6 @@
+{
+  "name": "SAATHI AI - Women's Safety Platform",
+  "description": "Recognize Early. Reach Help. Protect Dignity. An AI-powered platform helping women understand warning signs, seek confidential guidance, and connect with human assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
